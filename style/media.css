@@ -1,0 +1,22 @@
+@media (max-width: 520px) {
+  .main {
+    padding: 0px 12px 12px;
+  }
+
+  .box {
+    margin-top: 26px;
+  }
+
+  .box__item {
+    max-width: 37.75%;
+  }
+
+  .box__item span {
+    margin-left: 10px;
+
+  }
+
+  .box__item--r {
+    max-width: 53%;
+  }
+}
